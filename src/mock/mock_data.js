@@ -208,7 +208,22 @@ export const mockData = {
       "icon": "💻",
       "name": "自建服务",
       "order": 7,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775915843686",
+          "name": "ds2api",
+          "url": "https://k52.de5.net/admin",
+          "description": "管理面板",
+          "icon": "https://www.faviconextractor.com/favicon/k52.de5.net"
+        },
+        {
+          "id": "site-1775916059448",
+          "name": "Vaultwarden",
+          "url": "https://985875.xyz/#/login",
+          "description": "Vaultwarden",
+          "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
+        }
+      ]
     },
     {
       "id": "finance",
