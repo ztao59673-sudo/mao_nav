@@ -204,10 +204,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1775915725433",
+      "icon": "💻",
+      "name": "自建服务",
+      "order": 7,
+      "sites": []
+    },
+    {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "binance",
@@ -236,21 +243,21 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 9,
       "sites": []
     },
     {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 10,
       "sites": []
     },
     {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "bilibili",
@@ -279,7 +286,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "feishu",
