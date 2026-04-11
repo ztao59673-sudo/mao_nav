@@ -228,7 +228,7 @@ export const mockData = {
           "name": "OpenClaw",
           "url": "https://yom.indevs.in/",
           "description": "webui",
-          "icon": ""
+          "icon": "https://yom.indevs.in/favicon.ico"
         },
         {
           "id": "site-1775916288152",
@@ -236,6 +236,13 @@ export const mockData = {
           "url": "https://chat.orvgo.com/",
           "description": "Chat",
           "icon": "https://www.faviconextractor.com/favicon/chat.orvgo.com"
+        },
+        {
+          "id": "site-1775916842438",
+          "name": "Cloudmail",
+          "url": "https://865761.xyz/inbox",
+          "description": "cloudmail",
+          "icon": "https://www.faviconextractor.com/favicon/865761.xyz"
         }
       ]
     },
