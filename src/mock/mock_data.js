@@ -222,6 +222,20 @@ export const mockData = {
           "url": "https://985875.xyz/#/login",
           "description": "Vaultwarden",
           "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
+        },
+        {
+          "id": "site-1775916194473",
+          "name": "OpenClaw",
+          "url": "https://yom.indevs.in/",
+          "description": "webui",
+          "icon": ""
+        },
+        {
+          "id": "site-1775916288152",
+          "name": "OpenWebUI",
+          "url": "https://chat.orvgo.com/",
+          "description": "Chat",
+          "icon": "https://www.faviconextractor.com/favicon/chat.orvgo.com"
         }
       ]
     },
