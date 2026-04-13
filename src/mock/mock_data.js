@@ -126,6 +126,13 @@ export const mockData = {
           "url": "https://www.dmit.io/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.dmit.io"
+        },
+        {
+          "id": "site-1776074411903",
+          "name": "RN",
+          "url": "https://my.racknerd.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/my.racknerd.com"
         }
       ]
     },
