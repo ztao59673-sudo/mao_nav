@@ -119,6 +119,13 @@ export const mockData = {
           "url": "https://alicenetworks.net/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/alicenetworks.net"
+        },
+        {
+          "id": "site-1776074322350",
+          "name": "DMIT",
+          "url": "https://www.dmit.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.dmit.io"
         }
       ]
     },
