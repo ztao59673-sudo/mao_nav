@@ -243,6 +243,13 @@ export const mockData = {
           "url": "https://865761.xyz/inbox",
           "description": "cloudmail",
           "icon": "https://www.faviconextractor.com/favicon/865761.xyz"
+        },
+        {
+          "id": "site-1776072461900",
+          "name": "CPA管理面板",
+          "url": "https://cpam.hadbantwo.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -335,6 +342,5 @@ export const mockData = {
     }
   ],
   "title": "GPS导航",
-  "search": "bing",
-  "_fileSha": "cf2f214d8131bbd1da16019bd254e4cd225d5379"
+  "search": "bing"
 }
