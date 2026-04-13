@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://www.huaweicloud.com",
           "description": "华为云计算服务",
           "icon": "/sitelogo/www.huaweicloud.com.ico"
+        },
+        {
+          "id": "site-1776074173352",
+          "name": "Alice",
+          "url": "https://alicenetworks.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/alicenetworks.net"
         }
       ]
     },
