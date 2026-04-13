@@ -133,6 +133,13 @@ export const mockData = {
           "url": "https://my.racknerd.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/my.racknerd.com"
+        },
+        {
+          "id": "site-1776074493422",
+          "name": "RFC",
+          "url": "https://my.rfchost.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/my.rfchost.com"
         }
       ]
     },
