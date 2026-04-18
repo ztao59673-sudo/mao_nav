@@ -252,13 +252,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/k52.de5.net"
         },
         {
-          "id": "site-1775916059448",
-          "name": "Vaultwarden",
-          "url": "https://985875.xyz/#/login",
-          "description": "Vaultwarden",
-          "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
-        },
-        {
           "id": "site-1775916194473",
           "name": "OpenClaw",
           "url": "https://yom.indevs.in/",
@@ -273,6 +266,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/chat.orvgo.com"
         },
         {
+          "id": "site-1775916059448",
+          "name": "Vaultwarden",
+          "url": "https://985875.xyz/#/login",
+          "description": "Vaultwarden",
+          "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
+        },
+        {
           "id": "site-1775916842438",
           "name": "Cloudmail",
           "url": "https://865761.xyz/inbox",
@@ -282,7 +282,7 @@ export const mockData = {
         {
           "id": "site-1776072461900",
           "name": "CPA管理面板",
-          "url": "https://cpam.hadbantwo.com/",
+          "url": "https://cpam.hadbantwo.com/management.html#/login",
           "description": "",
           "icon": ""
         }
