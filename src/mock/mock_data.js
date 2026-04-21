@@ -282,9 +282,9 @@ export const mockData = {
         {
           "id": "site-1776072461900",
           "name": "CPA管理面板",
-          "url": "https://cpam.hadbantwo.com/management.html#/login",
+          "url": "https://cpa.orvgo.com/management.html#/login",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/cpa.orvgo.com"
         }
       ]
     },
