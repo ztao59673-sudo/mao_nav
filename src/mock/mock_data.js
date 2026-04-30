@@ -44,7 +44,7 @@ export const mockData = {
         {
           "id": "site-1775915172270",
           "name": "Komari",
-          "url": "https://komari.hadbantwo.com/",
+          "url": "https://a17.de5.net/",
           "description": "探针",
           "icon": "https://www.faviconextractor.com/favicon/komari.hadbantwo.com"
         }
