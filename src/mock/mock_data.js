@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://claude.ai",
           "description": "Anthropic AI助手",
           "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "site-1778164937163",
+          "name": "Kiro",
+          "url": "https://app.kiro.dev/",
+          "description": "",
+          "icon": "https://assets.app.kiro.dev/releases/4fb5cc0d45ef0584/favicon.svg"
         }
       ]
     },
