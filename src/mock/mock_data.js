@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://a17.de5.net/",
           "description": "探针",
           "icon": "https://www.faviconextractor.com/favicon/a17.de5.net"
+        },
+        {
+          "id": "site-1776072461900",
+          "name": "CPA管理面板",
+          "url": "https://cpa.orvgo.com/management.html#/login",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cpa.orvgo.com"
         }
       ]
     },
@@ -280,13 +287,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/chat.orvgo.com"
         },
         {
-          "id": "site-1775916059448",
-          "name": "Vaultwarden",
-          "url": "https://985875.xyz/#/login",
-          "description": "Vaultwarden",
-          "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
-        },
-        {
           "id": "site-1775916842438",
           "name": "Cloudmail",
           "url": "https://865761.xyz/inbox",
@@ -294,11 +294,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/865761.xyz"
         },
         {
-          "id": "site-1776072461900",
-          "name": "CPA管理面板",
-          "url": "https://cpa.orvgo.com/management.html#/login",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/cpa.orvgo.com"
+          "id": "site-1775916059448",
+          "name": "Vaultwarden",
+          "url": "https://985875.xyz/#/login",
+          "description": "Vaultwarden",
+          "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
         }
       ]
     },
