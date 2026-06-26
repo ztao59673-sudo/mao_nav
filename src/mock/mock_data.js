@@ -149,13 +149,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/my.racknerd.com"
         },
         {
-          "id": "site-1776074493422",
-          "name": "RFC",
-          "url": "https://my.rfchost.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/my.rfchost.com"
-        },
-        {
           "id": "site-1776353712828",
           "name": "Azure",
           "url": "https://portal.azure.com/?Microsoft_Azure_Education_correlationId=8f7a0090a37246e7a2a42674161c3818&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=e80485e2-59c4-4cbb-bb50-d9d618ec320d#view/Microsoft_Azure_Education/EducationMenuBlade/~/overview",
