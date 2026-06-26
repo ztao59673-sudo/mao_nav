@@ -163,13 +163,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/985875.xyz"
         }
       ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 10,
-      "sites": []
     }
   ],
   "title": "GPS导航",
