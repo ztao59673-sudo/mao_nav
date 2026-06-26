@@ -135,7 +135,7 @@ export const mockData = {
         },
         {
           "id": "site-1777165036443",
-          "name": "domain.stackryze",
+          "name": "domain",
           "url": "https://domain.stackryze.com/",
           "description": "indevs域名",
           "icon": "https://www.faviconextractor.com/favicon/domain.stackryze.com"
